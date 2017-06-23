@@ -1,6 +1,6 @@
 # server-nodejs
 
-[Udemy's](https://www.udemy.com/) lesson for Advanced React and Redux focusing on authentication for the server side. This is testing the authentication for SignUp, Signin and other.
+[Udemy's](https://www.udemy.com/) lesson for Advanced React and Redux focusing on authentication for the server side. This is creating the authentication for SignUp, Signin and other.
 
 - utilitizes expressjs, http, bodyParser, morgan, mongoose, nodemon, bcrypt-node.js, jwt-simple, passport plus passport-jwt and passport-local.
 - created a database, [mongodb](https://www.mongodb.com/) was used.
