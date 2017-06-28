@@ -3,7 +3,7 @@
 [Udemy's][https://www.udemy.com] lesson for Advanced React and Redux focusing on authentication for the server side. This is testing the authentication for SignUp, Signin and other.
 
 -  utilitizes expressjs, http, bodyParser, morgan, mongoose, nodemon, bcrypt-node.js, jwt-simple, passport plus passport-jwt and passport-local.
-- to create a database, [mongodb][https://www.mongodb.com/] was used.
+- to create a database, [mongodb]https://www.mongodb.com/] was used.
 - [Robo TS][https://robomongo.org/] was used to look into the database.
 - [Postman][https://www.getpostman.com/apps] was used to test create data and test the routes.
 
